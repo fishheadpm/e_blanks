@@ -1,0 +1,92 @@
+[
+  {
+    "id": "round1",
+    "name": "英語穴埋め①",
+    "questions": [
+      {
+        "id": "r1q001",
+        "japanese": "彼の家は図書館のそばに立っています。",
+        "sentence": "His house stands (①) (②) the library.",
+        "answer": "stands by"
+      },
+      {
+        "id": "r1q002",
+        "japanese": "それはいい推測ですね。",
+        "sentence": "That's a (①) (②).",
+        "answer": "good guess"
+      },
+      {
+        "id": "r1q003",
+        "japanese": "これらの箸は竹で作られています。",
+        "sentence": "These chopsticks are (①) (②) bamboo.",
+        "answer": "made of"
+      },
+      {
+        "id": "r1q004",
+        "japanese": "約半分は私の同級生です。",
+        "sentence": "(①) (②) are my classmates.",
+        "answer": "About half"
+      },
+      {
+        "id": "r1q005",
+        "japanese": "その物語は私たちの心に訴えました。",
+        "sentence": "The story (①) (②) us.",
+        "answer": "spoke to"
+      },
+      {
+        "id": "r1q006",
+        "japanese": "それは人によります。",
+        "sentence": "It (①) (②) the person.",
+        "answer": "depends on"
+      },
+      {
+        "id": "r1q007",
+        "japanese": "あなたは登場人物の動きに焦点を合わせましたか。",
+        "sentence": "Did you (①) (②) the characters' action?",
+        "answer": "focus on"
+      },
+      {
+        "id": "r1q008",
+        "japanese": "シンガポールは東京より小さいという意味ですか。",
+        "sentence": "(①) (②) Singapore is smaller than Tokyo.",
+        "answer": "You mean"
+      },
+      {
+        "id": "r1q009",
+        "japanese": "木のそばに立っている男の子は私の弟です。",
+        "sentence": "The boy (①) (②) the tree is my brother.",
+        "answer": "standing by"
+      },
+      {
+        "id": "r1q010",
+        "japanese": "あなたは宮崎駿によって監督された映画を見たことがありますか。",
+        "sentence": "Have you watched the movie (①) (②) Miyazaki Hayao?",
+        "answer": "directed by"
+      },
+      {
+        "id": "r1q011",
+        "japanese": "この人形は木でできています。",
+        "sentence": "This doll is (①) (②) wood.",
+        "answer": "made of"
+      },
+      {
+        "id": "r1q012",
+        "japanese": "あすの体育の授業の場所は天候次第です。",
+        "sentence": "The place of P.E. class tomorrow (①) (②) the weather.",
+        "answer": "depends on"
+      },
+      {
+        "id": "r1q013",
+        "japanese": "私は驚くべきニュースを読んでショックを受けました。",
+        "sentence": "I was (①) (②) read the surprising news.",
+        "answer": "shocked to"
+      },
+      {
+        "id": "r1q014",
+        "japanese": "私の考えでは、テスト前にゲームをすべきではありません。",
+        "sentence": "From my (①) of\n(②), you shouldn't play games before tests.",
+        "answer": "point view"
+      }
+    ]
+  }
+]

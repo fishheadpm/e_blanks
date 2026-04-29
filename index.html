@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>英語穴埋め学習アプリ</title>
+  <link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+  <div class="container">
+    <h1>英語穴埋め学習</h1>
+
+    <div id="seriesScreen">
+      <h2>回を選択</h2>
+      <div id="seriesButtons"></div>
+    </div>
+
+    <div id="menuScreen" class="hidden">
+      <h2 id="roundTitle"></h2>
+      <button onclick="start()">最初から</button>
+      <button onclick="continueGame()">続きから</button>
+      <button onclick="showHistory()">間違えた履歴</button>
+      <button onclick="reset()">履歴リセット</button>
+      <button onclick="back()">戻る</button>
+    </div>
+
+    <div id="quizScreen" class="hidden">
+      <p id="progress"></p>
+
+      <div class="questionBox">
+        <p class="label">日本文</p>
+        <h2 id="japanese"></h2>
+      </div>
+
+      <div class="questionBox">
+        <p class="label">英文</p>
+        <p id="englishSentence" class="englishSentence"></p>
+      </div>
+
+      <button id="showAnswerButton" onclick="showAnswer()">答え表示</button>
+
+      <div id="answerArea" class="hidden">
+        <p class="label">正解</p>
+        <p id="answer" class="answerText"></p>
+
+        <button onclick="correct()">正解した</button>
+        <button onclick="wrong()">間違えた</button>
+      </div>
+
+      <button class="subButton" onclick="toMenu()">メニューへ戻る</button>
+    </div>
+  </div>
+
+  <script src="app.js?v=1"></script>
+</body>
+</html>
