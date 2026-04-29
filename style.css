@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
+  background: #f5f5f5;
+  color: #222;
+}
+
+.container {
+  width: 100%;
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+h1 {
+  font-size: 26px;
+  text-align: center;
+  margin: 12px 0 20px;
+}
+
+h2 {
+  font-size: 21px;
+  line-height: 1.5;
+}
+
+.hidden {
+  display: none;
+}
+
+button {
+  width: 100%;
+  margin: 6px 0;
+  padding: 14px 12px;
+  font-size: 17px;
+  border: none;
+  border-radius: 10px;
+  background: #2563eb;
+  color: white;
+}
+
+button:active {
+  opacity: 0.75;
+}
+
+.subButton {
+  background: #6b7280;
+  margin-top: 18px;
+}
+
+.questionBox {
+  background: white;
+  border-radius: 12px;
+  padding: 14px;
+  margin: 12px 0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+.label {
+  margin: 0 0 8px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #555;
+}
+
+.englishSentence {
+  font-size: 20px;
+  line-height: 1.7;
+  white-space: pre-line;
+}
+
+.answerText {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.5;
+  color: #111;
+  background: #fff7ed;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+#progress {
+  text-align: center;
+  color: #555;
+  font-size: 15px;
+}
