@@ -88,5 +88,95 @@
         "answer": "point view"
       }
     ]
+  },
+  {
+    "id": "round2",
+    "name": "英語穴埋め②",
+    "questions": [
+      {
+        "id": "r2q001",
+        "japanese": "この種類の象は世界で最も重い動物として知られています",
+        "sentence": "(known / the heaviest / is / as / this / kind of / elephant) animal in the world.",
+        "answer": "This kind of elephant is known as the heaviest"
+      },
+      {
+        "id": "r2q002",
+        "japanese": "私は中国語や韓国語のようなアジアの言語に興味があります",
+        "sentence": "(or / I'm / like / in / Chinese / Asian languages / interested) Korean.",
+        "answer": "I'm interested in Asian languages like Chinese or"
+      },
+      {
+        "id": "r2q003",
+        "japanese": "あなたの同級生はバレーボールとバスケットボールのどちらが好きですか",
+        "sentence": "Do (basketball / or / your classmates / prefer / volleyball)?",
+        "answer": "your classmates prefer volleyball or basketball"
+      },
+      {
+        "id": "r2q004",
+        "japanese": "私はパンよりもご飯のほうが健康にいいと感じます",
+        "sentence": "(rice / bread / that / better / than / I / feel / is) for health.",
+        "answer": "I feel that rice is better than bread"
+      },
+      {
+        "id": "r2q005",
+        "japanese": "広い部屋はより快適です",
+        "sentence": "A (comfortable / is / more / large room).",
+        "answer": "large room is more comfortable"
+      },
+      {
+        "id": "r2q006",
+        "japanese": "あす必ず教科書を持ってきてください",
+        "sentence": "(①) (②) (③) bring the textbook tomorrow.",
+        "answer": "Be sure to"
+      },
+      {
+        "id": "r2q007",
+        "japanese": "その時計は15分に鳴ります",
+        "sentence": "The clock chimes on the (①) (②).",
+        "answer": "quarter hour"
+      },
+      {
+        "id": "r2q008",
+        "japanese": "私は、彼女の顔色が悪く見えるので心配です",
+        "sentence": "I'm worried about her because she (①) (②).",
+        "answer": "looks pale"
+      },
+      {
+        "id": "r2q009",
+        "japanese": "あなたは余分のいすを持っていますか？",
+        "sentence": "Do you have (①) (②) chair?",
+        "answer": "an extra"
+      },
+      {
+        "id": "r2q010",
+        "japanese": "私はいつも夏に日陰を歩きます",
+        "sentence": "I always walk in the (①) in summer.",
+        "answer": "shade"
+      },
+      {
+        "id": "r2q011",
+        "japanese": "助けが必要ですか？",
+        "sentence": "(help / you / need / do)?",
+        "answer": "Do you need help"
+      },
+      {
+        "id": "r2q012",
+        "japanese": "あなたは何か暖かいものを着るといいですよ",
+        "sentence": "(should / warm / you / wear / something).",
+        "answer": "You should wear something warm"
+      },
+      {
+        "id": "r2q013",
+        "japanese": "今週末、病院に行ってはどうですか",
+        "sentence": "(don't / to / this weekend / go / the hospital / why / you)?",
+        "answer": "Why don't you go to the hospital this weekend"
+      },
+      {
+        "id": "r2q014",
+        "japanese": "チケットを買う場所が見当たりません",
+        "sentence": "(don't / buy / I / a place / see / to / tickets).",
+        "answer": "I don't see a place to buy tickets"
+      }
+    ]
   }
 ]
